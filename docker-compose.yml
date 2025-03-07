@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  bot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: telegram-bot
+    restart: unless-stopped
+    volumes:
+      - ./user_logs:/root/user_logs
+      - ./tutorial_data.json:/root/tutorial_data.json
+    environment:
+      - TZ=Asia/Tashkent
