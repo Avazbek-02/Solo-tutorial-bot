@@ -1,0 +1,22 @@
+{
+  "tutorials": {
+    "Diggi": {
+      "bio": "Zor geroy",
+      "videos": [
+        "4"
+      ]
+    }
+  },
+  "admins": {
+    "Platinum_TK": {
+      "username": "Platinum_TK",
+      "added_by": "D_Avazbek",
+      "added_at": "2025-03-07T16:20:56.139465+05:00"
+    },
+    "murodalievv": {
+      "username": "murodalievv",
+      "added_by": "D_Avazbek",
+      "added_at": "2025-03-07T16:19:33.601226+05:00"
+    }
+  }
+}
