@@ -1,7 +1,8 @@
 {
   "tutorials": {
-    "Diggi": {
+    "Chichi": {
       "bio": "Zor geroy",
+      "role": "Fighter",
       "videos": [
         "4"
       ]
@@ -17,6 +18,22 @@
       "username": "murodalievv",
       "added_by": "D_Avazbek",
       "added_at": "2025-03-07T16:19:33.601226+05:00"
+    }
+  },
+  "stories": {
+    "Diggi": {
+      "bio": "Zor geroy",
+      "role": "Fighter",
+      "videos": [
+        "4"
+      ]
+    },
+    "Lesly": {
+      "bio": "Zor",
+      "role": "Marksman/ADK",
+      "videos": [
+        "4"
+      ]
     }
   }
 }
